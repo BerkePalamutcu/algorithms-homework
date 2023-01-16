@@ -10,6 +10,6 @@ A JavaScript web application for visualizing various sorting algorithms. Built f
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 
 ## How to use
-
+- You can view the project on this link https://berkepalamutcu.github.io/algorithms-homework/
 - Click on the algorithm you want to visualize
 - Adjust speed and size of the array
